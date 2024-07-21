@@ -38,7 +38,7 @@ To get started with the News Reader application, follow the instructions below.
 
 1. Clone the repository:
     ```bash
-    git clone git@github.com:Mahmood-Anaam/News-Reader-Flutter.git
+    git clone https://github.com/Mahmood-Anaam/News-Reader-Flutter.git
     cd News-Reader-Flutter
     ```
 
