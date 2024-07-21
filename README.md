@@ -78,14 +78,12 @@ flutter run
 - `sqflite: ^2.3.2`
 - `flutter_dotenv: ^5.1.0`
 
-## Download
-
-You can download the APK file for the News Reader application from the following link:
+## APK Deployment
+The application is available for download in APK format for Android devices at the following link:
 [Download APK](https://drive.google.com/drive/folders/1ESh6ONP5P5DzblpF1gDr-E5j3LBMWhgx?usp=sharing)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contribution
+We welcome contributions! Please fork the repository and submit pull requests with clear descriptions of your changes.
 
 
 
