@@ -82,8 +82,6 @@ flutter run
 The application is available for download in APK format for Android devices at the following link:
 [Download APK](https://drive.google.com/drive/folders/1ESh6ONP5P5DzblpF1gDr-E5j3LBMWhgx?usp=sharing)
 
-## Contribution
-We welcome contributions! Please fork the repository and submit pull requests with clear descriptions of your changes.
 
 
 
